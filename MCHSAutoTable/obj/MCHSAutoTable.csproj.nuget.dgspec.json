@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj": {}
+    "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj": {
+    "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj",
+        "projectUniqueName": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj",
         "projectName": "Xceed.Document.NET",
-        "projectPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj",
+        "projectPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,16 +19,16 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj": {
+    "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj",
+        "projectUniqueName": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj",
         "projectName": "Xceed.Words.NET",
-        "projectPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj",
+        "projectPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj": {
-                "projectPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj"
+              "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj": {
+                "projectPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj"
               }
             }
           }
@@ -38,20 +38,20 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj": {
+    "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj",
+        "projectUniqueName": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj",
         "projectName": "MCHSAutoTable",
-        "projectPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj",
-        "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\obj\\",
+        "projectPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\MCHSAutoTable.csproj",
+        "packagesPath": "C:\\Users\\jeron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Other files\\Shared VISUAL\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jeron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,11 +66,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj": {
-                "projectPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj"
+              "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj": {
+                "projectPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Document.NET\\Xceed.Document.NET.csproj"
               },
-              "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj": {
-                "projectPath": "C:\\Users\\Victor\\source\\repos\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj"
+              "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj": {
+                "projectPath": "C:\\Users\\jeron\\Documents\\3.Обучение\\3 Курс\\6 Сем\\ТРиТПО\\Бригада\\project\\MCHSAutoTable\\MCHSAutoTable\\bin\\Debug\\net6.0-windows\\DocX-master\\Xceed.Words.NET\\Xceed.Words.NET.csproj"
               }
             }
           }
@@ -113,7 +113,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
